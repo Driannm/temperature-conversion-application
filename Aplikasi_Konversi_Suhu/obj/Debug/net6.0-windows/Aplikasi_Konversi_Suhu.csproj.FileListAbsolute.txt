@@ -1,0 +1,34 @@
+C:\Users\user\source\repos\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\obj\Debug\net6.0-windows\Aplikasi_Konversi_Suhu.Form1.resources
+C:\Users\user\source\repos\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\obj\Debug\net6.0-windows\Aplikasi_Konversi_Suhu.Properties.Resources.resources
+C:\Users\user\source\repos\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\obj\Debug\net6.0-windows\Aplikasi_Konversi_Suhu.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\obj\Debug\net6.0-windows\Aplikasi_Konversi_Suhu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\obj\Debug\net6.0-windows\Aplikasi_Konversi_Suhu.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\obj\Debug\net6.0-windows\Aplikasi_Konversi_Suhu.AssemblyInfo.cs
+C:\Users\user\source\repos\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\obj\Debug\net6.0-windows\Aplikasi_Konversi_Suhu.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\bin\Debug\net6.0-windows\Aplikasi_Konversi_Suhu.exe
+C:\Users\user\source\repos\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\bin\Debug\net6.0-windows\Aplikasi_Konversi_Suhu.deps.json
+C:\Users\user\source\repos\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\bin\Debug\net6.0-windows\Aplikasi_Konversi_Suhu.runtimeconfig.json
+C:\Users\user\source\repos\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\bin\Debug\net6.0-windows\Aplikasi_Konversi_Suhu.dll
+C:\Users\user\source\repos\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\bin\Debug\net6.0-windows\Aplikasi_Konversi_Suhu.pdb
+C:\Users\user\source\repos\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\obj\Debug\net6.0-windows\Aplikasi_Konversi_Suhu.dll
+C:\Users\user\source\repos\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\obj\Debug\net6.0-windows\refint\Aplikasi_Konversi_Suhu.dll
+C:\Users\user\source\repos\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\obj\Debug\net6.0-windows\Aplikasi_Konversi_Suhu.pdb
+C:\Users\user\source\repos\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\obj\Debug\net6.0-windows\Aplikasi_Konversi_Suhu.genruntimeconfig.cache
+C:\Users\user\source\repos\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\obj\Debug\net6.0-windows\ref\Aplikasi_Konversi_Suhu.dll
+D:\Pemrograman Komputer\220410339 - 22041045\Pertemuan 3\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\bin\Debug\net6.0-windows\Aplikasi_Konversi_Suhu.exe
+D:\Pemrograman Komputer\220410339 - 22041045\Pertemuan 3\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\bin\Debug\net6.0-windows\Aplikasi_Konversi_Suhu.deps.json
+D:\Pemrograman Komputer\220410339 - 22041045\Pertemuan 3\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\bin\Debug\net6.0-windows\Aplikasi_Konversi_Suhu.runtimeconfig.json
+D:\Pemrograman Komputer\220410339 - 22041045\Pertemuan 3\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\bin\Debug\net6.0-windows\Aplikasi_Konversi_Suhu.dll
+D:\Pemrograman Komputer\220410339 - 22041045\Pertemuan 3\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\bin\Debug\net6.0-windows\Aplikasi_Konversi_Suhu.pdb
+D:\Pemrograman Komputer\220410339 - 22041045\Pertemuan 3\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\obj\Debug\net6.0-windows\Aplikasi_Konversi_Suhu.Form1.resources
+D:\Pemrograman Komputer\220410339 - 22041045\Pertemuan 3\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\obj\Debug\net6.0-windows\Aplikasi_Konversi_Suhu.Properties.Resources.resources
+D:\Pemrograman Komputer\220410339 - 22041045\Pertemuan 3\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\obj\Debug\net6.0-windows\Aplikasi_Konversi_Suhu.csproj.GenerateResource.cache
+D:\Pemrograman Komputer\220410339 - 22041045\Pertemuan 3\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\obj\Debug\net6.0-windows\Aplikasi_Konversi_Suhu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemrograman Komputer\220410339 - 22041045\Pertemuan 3\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\obj\Debug\net6.0-windows\Aplikasi_Konversi_Suhu.AssemblyInfoInputs.cache
+D:\Pemrograman Komputer\220410339 - 22041045\Pertemuan 3\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\obj\Debug\net6.0-windows\Aplikasi_Konversi_Suhu.AssemblyInfo.cs
+D:\Pemrograman Komputer\220410339 - 22041045\Pertemuan 3\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\obj\Debug\net6.0-windows\Aplikasi_Konversi_Suhu.csproj.CoreCompileInputs.cache
+D:\Pemrograman Komputer\220410339 - 22041045\Pertemuan 3\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\obj\Debug\net6.0-windows\Aplikasi_Konversi_Suhu.dll
+D:\Pemrograman Komputer\220410339 - 22041045\Pertemuan 3\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\obj\Debug\net6.0-windows\refint\Aplikasi_Konversi_Suhu.dll
+D:\Pemrograman Komputer\220410339 - 22041045\Pertemuan 3\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\obj\Debug\net6.0-windows\Aplikasi_Konversi_Suhu.pdb
+D:\Pemrograman Komputer\220410339 - 22041045\Pertemuan 3\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\obj\Debug\net6.0-windows\Aplikasi_Konversi_Suhu.genruntimeconfig.cache
+D:\Pemrograman Komputer\220410339 - 22041045\Pertemuan 3\Aplikasi_Konversi_Suhu\Aplikasi_Konversi_Suhu\obj\Debug\net6.0-windows\ref\Aplikasi_Konversi_Suhu.dll

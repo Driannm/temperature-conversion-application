@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "W85w6Re4/w3ZNwsOiYO3SAXzU5v6pHvwFf1ZS6Mqj1/x/yqTG6bBmmucizNDrlOSoMqUdptdWforLoz6JyLbfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Downloads\\220410339 - 22041045\\Aplikasi_Konversi_Suhu\\Aplikasi_Konversi_Suhu\\Aplikasi_Konversi_Suhu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
